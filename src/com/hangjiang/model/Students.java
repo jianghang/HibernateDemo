@@ -1,3 +1,4 @@
+package com.hangjiang.model;
 import java.sql.Blob;
 import java.util.Date;
 

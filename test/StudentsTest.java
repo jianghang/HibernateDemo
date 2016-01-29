@@ -17,6 +17,9 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.hangjiang.model.Address;
+import com.hangjiang.model.Students;
+
 public class StudentsTest {
 
 	private SessionFactory sessionFactory;

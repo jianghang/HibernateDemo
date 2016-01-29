@@ -1,3 +1,4 @@
+package com.hangjiang.model;
 
 public class Address {
 	private String postcode;
